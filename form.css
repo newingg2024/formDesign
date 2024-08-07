@@ -1,0 +1,102 @@
+#heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: darkslategrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lavender;
+    margin-bottom: 50px;
+}
+#first_container{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    
+    width: 100%;
+    height: 5rem;
+    padding: 0.5rem;
+}
+
+#Second_container{
+    display: flex;
+    width: 100%;
+    height:2rem;
+    padding: 0.2rem;
+    justify-content: space-between;
+    
+}
+#Third_container{
+    display: flex;
+    width: 100%;
+    height: 2rem;
+    padding: 0.2rem;
+    justify-content: space-between;
+    
+}
+#Fourth_container{
+    display: flex;
+    width: 100%;
+    height: 2rem;
+    padding: 0.2rem;
+    
+}
+#user_interface_firstOne{
+    width: 35rem;
+    height: 20px;
+    border-radius: 1rem;
+}
+#user_interface_firstTwo{
+    width: 35rem;
+    height: 20px;
+    border-radius: 1rem;
+}
+#user_interface_secondOne{
+    width: 35rem;
+    height: 20px;
+    border-radius: 1rem;
+}
+#user_interface_secondTwo{
+    width: 35rem;
+    height: 20px;
+    border-radius: 1rem;
+}
+#user_interface_thirdOne{
+    width: 35rem;
+    height: 20px;
+    border-radius: 1rem;
+}
+#user_interface_thirdTwo{
+    width: 35rem;
+    height: 20px;
+    border-radius: 1rem;
+}
+
+#user_interface_fourOne{
+    width: 10rem;
+    height: 23px;
+    border-radius: 1rem;
+}
+#user_interface_fourTwo{
+    width: 10rem;
+    height: 23px;
+    border-radius: 1rem;
+}
+#button_row{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100%;
+    height: 5rem;
+    padding: 0.5rem;
+}
+
+#display_result{
+    display: flex;
+    justify-content: start;
+    width: 100%;
+    height: 10rem;
+    background-color: lavender;
+}
